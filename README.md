@@ -25,8 +25,8 @@
 ## Key Skills
 
 <p>
-  💬 Angular, JavaScript, C++, Php, SQL<br>
-  📖 Node.js, Express.js, Vue.js, MongoDB
+  💬 JavaScript, C++, Php, SQL / MongoDB<br>
+  📖 Node.js, Express.js, Vue.js, Angular
 </p>
 
 ## 📫 Connect With Me
